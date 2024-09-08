@@ -61,17 +61,17 @@ Descubra a lógica e complete o próximo elemento:
 
 Respostas:
 
-    a) O próximo número é o número atual + 2. Próximo elemento: 9
+a) O próximo número é o número atual + 2. Próximo elemento: 9.
 
-    b) O próximo número é o número atual x 2. Próximo elemento: 128.
+b) O próximo número é o número atual x 2. Próximo elemento: 128.
 
-    c) Cada número é o quadrado de inteiros consecutivos, começando a partir de 0. O próximo inteiro seria 7, portanto, consideramos 7². Próximo elemento: 49.
+c) Cada número é o quadrado de inteiros consecutivos, começando a partir de 0. O próximo inteiro seria 7, portanto, consideramos 7². Próximo elemento: 49.
 
-    d) Cada número é o quadrado de uma sequência de números pares consecutivos. O próximo par seria 10, portanto, consideramos 10². Próximo elemento: 100.
+d) Cada número é o quadrado de uma sequência de números pares consecutivos. O próximo par seria 10, portanto, consideramos 10². Próximo elemento: 100.
 
-    e) O próximo número é a soma do número atual + anterior. Próximo elemento: 13
+e) O próximo número é a soma do número atual + anterior. Próximo elemento: 13.
 
-    f) Nesta sequência há apenas números que começam com a letra D. Próximo elemento: 200.
+f) Nesta sequência há apenas números que começam com a letra D. Próximo elemento: 200.
 
 
 ## Desafio 5
@@ -79,6 +79,6 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 
 Resposta:
 
-    Considerando os interruptores 1, 2 e 3 e as salas A, B e C, podemos começar ligando o interruptor 1 por alguns minutos, em seguida desliga-lo e ligar o interruptor 2. Agora podemos ir à sala A validar a qual interruptor ela percente, se a lâmpada estiver acesa, a sala A está para o interruptor 2, se estiver apagada mas com a lâmpada quente, está para o interruptor 1, se estiver apagada e fria, está para o interruptor 3.
+Considerando os interruptores 1, 2 e 3 e as salas A, B e C, podemos começar ligando o interruptor 1 por alguns minutos, em seguida desliga-lo e ligar o interruptor 2. Agora podemos ir à sala A validar a qual interruptor ela percente, se a lâmpada estiver acesa, a sala A está para o interruptor 2, se estiver apagada mas com a lâmpada quente, está para o interruptor 1, se estiver apagada e fria, está para o interruptor 3.
 
-    Em seguida podemos ir para a sala B, onde aplicamos a mesma lógica usada na sala A, que nos permite descobrir com exatidão a relação de sala e interruptor, fazendo com que a relação do interruptor 3 seja feita com a sala que sobrar.
+Em seguida podemos ir para a sala B, onde aplicamos a mesma lógica usada na sala A, que nos permite descobrir com exatidão a relação de sala e interruptor , fazendo com que a relação do interruptor 3 seja feita com a sala que sobrar.
