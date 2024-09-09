@@ -13,19 +13,14 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>algoritmos</name>
 	<description>Este é um projeto que consiste numa série de desafios de algorítmos propostos pela Target Sistemas</description>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+    <url>https://github.com/mtpontes/desafio-target-ribeirao_preto</url>
+    <developers>
+        <developer>
+            <id>mtpontes</id>
+            <name>Mateus da Silva Pontes</name>
+            <email>mateuspsdd@gmail.com</email>
+        </developer>
+    </developers>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
